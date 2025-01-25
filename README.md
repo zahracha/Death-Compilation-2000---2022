@@ -27,9 +27,3 @@ The dashboard includes the following key charts:
 
 - **Data Visualization Tools**: Power BI, Tableau, or Matplotlib (specify the one you used).
 - **Data Sources**: Government reports, open data platforms, or research studies.
-
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/indonesia-death-dashboard.git
